@@ -1,4 +1,4 @@
-# HTML CSS collage
+# HTML CSS Collage
 > Demo using random Unsplash images to form a collage
 
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/html-css-collage?include_prereleases=&sort=semver&color=blue)](https://github.com/MichaelCurrin/html-css-collage/releases/)
